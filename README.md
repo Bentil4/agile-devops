@@ -318,10 +318,10 @@ npm test -- --coverage
 ```
 
 **Test Coverage:**
-- Statements: 85%
-- Branches: 82%
-- Functions: 88%
-- Lines: 85%
+- Statements: 96.8%
+- Branches: 100%
+- Functions: 87.5%
+- Lines: 96.62%
 
 **Test Types:**
 - Unit tests for controllers

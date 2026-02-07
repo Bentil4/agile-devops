@@ -109,7 +109,7 @@ GET /api/todos?completed=false&priority=high
 - **Cumulative Velocity:** 32 points over 2 sprints (16 avg)
 
 ### Quality Metrics
-- **Test Coverage:** 85% (maintained from Sprint 1)
+- **Test Coverage:** 96.8% (statements)
 - **Total Tests:** 28 (up from 23)
 - **Bugs Found:** 0 critical, 0 minor
 - **Code Review SLA:** 3.2 hours average (improved from Sprint 1)
